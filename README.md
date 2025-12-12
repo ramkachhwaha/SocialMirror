@@ -106,4 +106,4 @@ SocialMirror/
 ````
 ---
 
-<div align="center"> <sub>Designed & Developed with ❤️ by <b>[Your Name]</b></sub> <br> <sub><i>This project is a submission for the Google DeepMind Gemini 3 Pro Hackathon.</i></sub> </div> 
+<div align="center"> <sub>Designed & Developed with ❤️ by <b>ramkachhwaha</b></sub> <br> <sub><i>This project is a submission for the Google DeepMind Gemini 3 Pro Hackathon.</i></sub> </div> 
