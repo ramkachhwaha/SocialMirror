@@ -1,0 +1,33 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base Shape: Rounded Square (App Icon Style) -->
+  <rect x="0" y="0" width="64" height="64" rx="16" fill="#1a1a1a"/>
+  
+  <!-- 1. Instagram Section (Top Left) -->
+  <path d="M32 32H0V16C0 7.16344 7.16344 0 16 0H32V32Z" fill="url(#insta_gradient)"/>
+  
+  <!-- 2. X / Twitter Section (Top Right) -->
+  <path d="M64 32H32V0H48C56.8366 0 64 7.16344 64 16V32Z" fill="black"/>
+  <!-- Minimal X logo hint -->
+  <path d="M54 10L42 22H46L58 10H54Z" fill="white"/> 
+
+  <!-- 3. LinkedIn Section (Bottom Left) -->
+  <path d="M32 64H16C7.16344 64 0 56.8366 0 48V32H32V64Z" fill="#0077B5"/>
+  <!-- Minimal 'in' hint -->
+  <rect x="10" y="42" width="12" height="12" rx="2" fill="white"/>
+
+  <!-- 4. Snapchat Section (Bottom Right) -->
+  <path d="M64 48C64 56.8366 56.8366 64 48 64H32V32H64V48Z" fill="#FFFC00"/>
+  
+  <!-- The "Mirror" AI Sparkle (Center) -->
+  <circle cx="32" cy="32" r="12" fill="#1a1a1a" stroke="white" stroke-width="2"/>
+  <path d="M32 24L34 30L40 32L34 34L32 40L30 34L24 32L30 30L32 24Z" fill="#4285F4"/>
+
+  <!-- Gradient Definition for Instagram -->
+  <defs>
+    <linearGradient id="insta_gradient" x1="0" y1="32" x2="32" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD600"/>
+      <stop offset="0.5" stop-color="#FF0069"/>
+      <stop offset="1" stop-color="#7638FA"/>
+    </linearGradient>
+  </defs>
+</svg>
