@@ -86,7 +86,7 @@ This project contains everything you need to run your app locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR-USERNAME/SocialMirror.git
+    git clone https://github.com/ramkachhwaha/SocialMirror.git
     cd SocialMirror
     ```
 
@@ -99,7 +99,7 @@ This project contains everything you need to run your app locally.
     Create a file named `.env.local` in the root directory and add your key:
     *(Note: The `VITE_` prefix is mandatory for Vite apps)*
     ```env
-    VITE_GEMINI_API_KEY=your_actual_api_key_here
+    VITE_GEMINI_API_KEY = your_actual_api_key_here
     ```
 
 4.  **Run the app:**
@@ -107,7 +107,7 @@ This project contains everything you need to run your app locally.
     npm run dev
     ```
 
-Open your browser and navigate to `http://localhost:5173` to start vibe coding!
+Open your browser and navigate to `http://localhost:5173` to start coding!
 
 ---
 
