@@ -130,7 +130,7 @@ SocialMirror/
 
 ## 🤝 Contributing
 
-This project is a proudly created submission for the **Google DeepMind Vibe Coding Hackathon**.
+This project is a proudly created submission for the **Google DeepMind Coding Hackathon**.
 We welcome contributions! Feel free to **fork** the repository, create **issues**, or drop a **star ⭐** if you liked the vibe.
 
 <br>
