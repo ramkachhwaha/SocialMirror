@@ -121,7 +121,7 @@ SocialMirror/
 │   ├── App.jsx          # Main Application Logic
 │   ├── index.css        # Tailwind & Custom Styles
 │   └── main.jsx         # Entry Point
-├── .env.local           # API Keys (Not pushed to GitHub)
+├── .env                 # API Keys (Not pushed to GitHub)
 └── README.md            # Documentation
 
 ````
