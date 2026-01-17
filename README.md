@@ -96,7 +96,7 @@ This project contains everything you need to run your app locally.
     ```
 
 3.  **Set up Environment Variables:**
-    Create a file named `.env.local` in the root directory and add your key:
+    Create a file named `.env` in the root directory and add your key:
     *(Note: The `VITE_` prefix is mandatory for Vite apps)*
     ```env
     VITE_GEMINI_API_KEY = your_actual_api_key_here
