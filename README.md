@@ -6,7 +6,7 @@
 <br>
 
 <!-- 2. Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Vibe+Check+Your+Posts;Powered+by+Gemini+3+Pro;Simulate+Trolls,+Fans+&+More" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Vibe+Check+Your+Posts;Powered+by+Gemini+2.5+Flash;Simulate+Trolls,+Fans+&+More" alt="Typing SVG" />
 
 <br>
 
