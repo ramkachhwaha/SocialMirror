@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Google_DeepMind-Hackathon_2025-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101010" alt="Hackathon Badge" />
 </a>
 <a href="https://ai.studio/">
-  <img src="https://img.shields.io/badge/Powered_by-Gemini_3_Pro-informational?style=for-the-badge&logo=googlegemini&logoColor=white&color=8E44AD" alt="Gemini 3 Pro" />
+  <img src="https://img.shields.io/badge/Powered_by-Gemini_2.5_Flash-informational?style=for-the-badge&logo=googlegemini&logoColor=white&color=8E44AD" alt="Gemini 2.5 Pro" />
 </a>
 <a href="https://ai.studio/apps/drive/112tkWmwFnlYTJk5ICPpRiT0Cl2VBm_jS">
   <img src="https://img.shields.io/badge/View_in-AI_Studio-success?style=for-the-badge&logo=google-cloud&logoColor=white" alt="View App" />
