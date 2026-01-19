@@ -36,7 +36,7 @@
 ### 💡 The Solution: SocialMirror
 **SocialMirror** is a "Flight Simulator" for social media. It allows you to test-drive your content against AI agents simulating 8 different realistic personas (from Trolls to Super Fans) before you post it to the real world.
 
-> **Built with Google Gemini 3 Pro's advanced Multimodality (Vision + Text) & Reasoning.**
+> **Built with Google Gemini 2.5 Flash advanced Multimodality (Vision + Text) & Reasoning.**
 
 ---
 
@@ -68,7 +68,7 @@ Check out the live application here:
 - **Frontend:** React.js (Vite)
 - **Language:** JavaScript (ES6+)
 - **Styling:** Tailwind CSS + Framer Motion
-- **AI Model:** Google Gemini 3 Pro (via Google GenAI SDK)
+- **AI Model:** Google Gemini 2.5 Flash (via Google GenAI SDK)
 - **Deployment:** Netlify
 
 ---
